@@ -1,0 +1,35 @@
+{
+	"oem": "e3569z001334522z",
+	"ip": "192.168.1.172",
+	"client-date": "20160623",
+	"client-user": "user01",
+	"client-pass": "user01",
+	"package-type": "P",
+	"package": [
+		{
+			"reid": "P002340",
+			"retype": "01",
+			"reversion": "V4",
+			"data": [
+				{
+					"patientId": "P001",
+					"sex": "2",
+					"encounters": [
+						{
+							"encounterId": "E001",
+							"pregnantFlag": "1",
+							"orders": [
+								{
+									"orderId": "O001",
+									"medicareItemName": "YBXMMC001",
+									"hospitalItemName": "YYXMMC001",
+									"transationItemCode": "DR87742"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
